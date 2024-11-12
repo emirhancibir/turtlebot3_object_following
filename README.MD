@@ -21,7 +21,7 @@ This project implements a robot that follows objects using a camera. The robot i
 #### 1. Clone this repository to your catkin workspace:
 
 ```
-git clone https://github.com/yourusername/object_follower_bot.git
+git clone https://github.com/emirhancibir/object_follower_bot.git
 ```
 
 #### 2. Build the package:
