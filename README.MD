@@ -4,7 +4,8 @@ This project implements a robot that follows objects using a camera. The robot i
 
 ## Youtube
 
-[![Video](https://img.youtube.com/vi/GSFU_vwBcQU?si=_2cAexdvqeFwDzZJ/maxresdefault.jpg)](https://youtu.be/GSFU_vwBcQU?si=_2cAexdvqeFwDzZJ)
+[![Video](https://img.youtube.com/vi/GSFU_vwBcQU/maxresdefault.jpg)](https://www.youtube.com/watch?v=GSFU_vwBcQU)
+
 
 ## Installation
 
